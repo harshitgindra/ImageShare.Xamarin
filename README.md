@@ -1,5 +1,5 @@
 # ImageShare.Xamarin
-###### This app allows you to build Xamarin forms app to share media to different apps. This repository is an example to share images on Android and iOS apps
+###### This app allows you to build Xamarin forms app to share media to different apps. This repository is an example to share images on Android and iOS apps You can check out this [video tutorial](https://www.youtube.com/watch?v=8UV9Ce2G8Zc) to see the code in action.
 
 ## Xamarin.Portable
 
@@ -112,5 +112,7 @@ In case you want to save the media/image to your device, do not forget to set th
 
 **Privacy - Photo Library Additions Usage Description**
 
+## License
+This project is open source.
 
 ##### Thank you
