@@ -3,7 +3,7 @@
 
 ## Xamarin.Portable
 
-Here we'll be using [Xamarin Essentials](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/dependency-service/introduction) to support different implementation for Android and iOS
+Here we'll be using [Xamarin Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) to support file share functionality for iOS and Android.
 
 In your XAML page, add the following ToolBarItem with a Command associated
 
